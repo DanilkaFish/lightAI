@@ -1,6 +1,6 @@
 # 📝 Название статьи
 
-**Ссылка:** [Название](https://link-to-article.com)  
+**Ссылка:** [Theory for Equivariant Quantum Neural Networks](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.5.020328)  
 **Авторы:** Автор 1, Автор 2  
 **Год:** 20XX  
 **Категория:** AI / Light / Light + AI  
